@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T15:48:52.034Z",
+  "generated_at": "2026-10-02T23:05:44.155Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -152,6 +152,19 @@
       "last_pushed_at": "2026-10-02T15:48:51.488Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:1327": {
+      "kind": "problem",
+      "id": "1327",
+      "title": "Compiling Functions with jax.jit",
+      "difficulty": "easy",
+      "category": "Jax",
+      "url": "https://www.deep-ml.com/problems/1327",
+      "path": "problems/1327-compiling-functions-with-jax-jit",
+      "first_solved_at": "2026-10-02T23:05:39.763Z",
+      "last_pushed_at": "2026-10-02T23:05:39.763Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
