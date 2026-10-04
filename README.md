@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**20** solved · 18 problems · 0 labs · 2 math
+**21** solved · 19 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-10-02 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-10-02 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Your First Gradient with jax.grad](https://www.deep-ml.com/problems/1325) | easy | 2026-10-03 | [solution](problems/1325-your-first-gradient-with-jax-grad) |
+| [Fit a Line with value_and_grad](https://www.deep-ml.com/problems/1331) | medium | 2026-10-04 | [solution](problems/1331-fit-a-line-with-value-and-grad) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-02 | [solution](problems/0009-matrix-times-matrix) |
 | [Multi-Parameter Gradients with argnums](https://www.deep-ml.com/problems/1326) | medium | 2026-10-03 | [solution](problems/1326-multi-parameter-gradients-with-argnums) |
 | [PyTrees: One SGD Step with tree_map](https://www.deep-ml.com/problems/1330) | medium | 2026-10-03 | [solution](problems/1330-pytrees-one-sgd-step-with-tree-map) |
